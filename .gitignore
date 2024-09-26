@@ -1,0 +1,10 @@
+*.o
+*.exe
+*.log
+/modules/
+/.vscode/
+
+#ce fichier permet de ne pas suivre les fichier objet .o, ni les logs
+# ainsi que d'ignorer les fichier de configuration VScode et autres
+
+

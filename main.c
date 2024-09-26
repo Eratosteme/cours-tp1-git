@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main(int int argc, char* argv[]) {
-   // 'ty prog
-   printf("Hello world!");
+int main(int argc, char* argv[]) {
+   //printf("Hello world!");
+   printf("Update welcome message");
    return 0;
 }

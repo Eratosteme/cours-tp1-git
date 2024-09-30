@@ -1,5 +1,7 @@
 *.o
 *.exe
+*.docx
+*.tmp
 *.log
 /modules/
 /.vscode/
